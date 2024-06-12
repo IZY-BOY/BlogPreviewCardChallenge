@@ -16,10 +16,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](assets/images/screenshot Desktop-view.png)
-![](assets/images/screenshot mobile-view.png)
-![](assets/images/Blog preview card and 73 more pages - Personal - Microsoft​ Edge 2024-06-12 21-44-29.mp4)
-
+![](./screenshot Desktop-view.png)
+![](./screenshot mobile-view.png)
 
 ### Links
 
