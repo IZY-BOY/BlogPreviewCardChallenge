@@ -16,13 +16,15 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](assets/images/screenshot Desktop-view.png)
+![](assets/images/screenshot mobile-view.jpg)
+![](assets/images/Blog preview card and 73 more pages - Personal - Microsoft​ Edge 2024-06-12 21-44-29.mp4)
 
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: (https://github.com/IZY-BOY/BlogPreviewCardChallenge.git)
+- Live Site URL: (https://izy-boy.github.io/BlogPreviewCardChallenge/)
 
 ## My process
 
