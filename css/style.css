@@ -95,15 +95,20 @@ body{
     font-weight: 800;
 }
 
-.title:hover{
+.title:active{
     color: var(--Yellow);
     cursor: pointer;
 }
 
-.container-shadow{
+.container:active{
     box-shadow: 15px 15px 10px 1px;
     transition: .5s;
 }
+
+/* .container-shadow{
+    box-shadow: 15px 15px 10px 1px;
+    transition: .5s;
+} */
 
 /* mobile view */
 
