@@ -95,14 +95,14 @@ body{
     font-weight: 800;
 }
 
-.title:active{
+.title:hover{
     color: var(--Yellow);
     cursor: pointer;
 }
 
-.container:active{
-    box-shadow: 15px 15px 10px 1px;
-    transition: .5s;
+.container:has(.title:hover){
+        box-shadow: 15px 15px 10px 1px;
+            transition: box-shadow .5s;
 }
 
 /* .container-shadow{
